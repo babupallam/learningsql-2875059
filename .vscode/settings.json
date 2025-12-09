@@ -19,7 +19,6 @@
     "sqlite.sqlite3": "/usr/bin/sqlite3",
     "terminal.integrated.fontSize": 18,
     "window.zoomLevel": 3,
-    "workbench.activityBar.visible": true,
     "workbench.colorTheme": "Visual Studio Dark",
     "workbench.fontAliasing": "antialiased",
     "workbench.statusBar.visible": true
